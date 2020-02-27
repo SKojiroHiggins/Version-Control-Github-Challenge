@@ -1,0 +1,7 @@
+1. The terminal is a way in which one can manipulate their computer without the use of the graphics user interface. The Mac termincal is similar to Windows command prompt.
+
+2. The difference between Git and GitHub.
+Git is a version control system with different versions of files. It is also a local repository. Git is distributed and can exist on many computers, one of them being GitHub.
+GitHub uses Git, and is another clone of the repository. It is online and adds additional functionality such as: allowing collabration, messaging, and more. Also allows for 3rd party tool integration. 
+
+3. We use GitHub to be able to collaborate easily and to maintain a safeguard by providing an endless supply of backups and previous versions. 
